@@ -2,21 +2,21 @@
 
 Welcome to my **Daily Coding Practice** repository!
 
-This repository contains solutions to coding problems that I solve while improving my **problem-solving skills, Data Structures and Algorithms knowledge, and programming skills**.
+This repository contains my solutions to coding problems that I solve while improving my **problem-solving skills, Data Structures and Algorithms knowledge, and programming skills**.
 
 ## 🎯 Goals
 
-* Practice coding consistently
-* Improve problem-solving skills
-* Strengthen Data Structures and Algorithms knowledge
-* Practice Java and Python
-* Maintain a record of my coding journey
-* Build a consistent GitHub contribution history
+- Practice coding consistently
+- Improve problem-solving skills
+- Strengthen Data Structures and Algorithms knowledge
+- Practice Java and Python
+- Maintain a record of my coding journey
+- Build a consistent GitHub contribution history
 
 ## 💻 Languages
 
-* Java ☕
-* Python 🐍
+- ☕ Java
+- 🐍 Python
 
 ## 📂 Repository Structure
 
@@ -33,35 +33,47 @@ daily-coding-practice/
 │   │   └── TwoSum.py
 │   │
 │   └── Strings/
-│       ├── ShortestBeautifulSubstring.py
-│       └── MostWordsFound.py
+│       ├── LexGreaterPermutation.py
+│       ├── MostWordsFound.py
+│       └── ShortestBeautifulSubstring.py
 │
 └── README.md
 ```
 
 ## 🧠 Problems Solved
 
-### Arrays
+### 🔢 Arrays
 
-| Problem                          | Language |
-| -------------------------------- | -------- |
-| Reverse Array using Two Pointers | Java     |
-| Two Sum                          | Java     |
-| Two Sum                          | Python   |
+| # | Problem | Language |
+|---|---|---|
+| 1 | Reverse Array Using Two Pointers | Java |
+| 2 | Two Sum | Java |
+| 3 | Two Sum | Python |
 
-### Strings
+### 🔤 Strings
 
-| Problem                                    | Language |
-| ------------------------------------------ | -------- |
-| Shortest Beautiful Substring               | Python   |
-| Maximum Number of Words Found in Sentences | Python   |
+| # | Problem | Language |
+|---|---|---|
+| 1 | Shortest Beautiful Substring | Python |
+| 2 | Maximum Number of Words Found in Sentences | Python |
+| 3 | Lexicographically Smallest Permutation Greater Than Target | Python |
 
 ## 🚀 Coding Journey
 
 I will regularly update this repository with new coding problems and solutions as I continue learning and practicing.
 
-The goal is to improve my logical thinking, strengthen my programming fundamentals, and build consistency through daily coding practice.
+My goal is to:
+
+- Improve logical thinking
+- Strengthen programming fundamentals
+- Practice DSA concepts
+- Write clean and efficient code
+- Build consistency through regular coding practice
 
 ---
 
 ⭐ **Feel free to explore my repository and follow my coding journey!**
+
+## 📌 Repository
+
+This repository is continuously updated as I solve new coding problems.
