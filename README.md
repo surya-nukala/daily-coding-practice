@@ -2,7 +2,7 @@
 
 Welcome to my **Daily Coding Practice** repository!
 
-This repository contains my solutions to coding problems that I solve while improving my problem-solving skills, Data Structures and Algorithms knowledge, and programming skills.
+This repository contains my solutions to coding problems that I solve while improving my **problem-solving skills, Data Structures and Algorithms knowledge, and programming skills**.
 
 ## 🎯 Goals
 
@@ -28,15 +28,16 @@ This repository contains my solutions to coding problems that I solve while impr
 | 5 | Shortest Beautiful Substring | Python | 🟠 Medium |
 | 6 | Lexicographically Smallest Permutation Greater Than Target | Python | 🟠 Medium |
 | 7 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Python | 🔴 Hard |
+| 8 | Make Lexicographically Smallest Array by Swapping Elements | Python | 🟠 Medium |
 
 ## 📊 Problem Statistics
 
 | Difficulty | Problems |
 |---|---:|
 | 🟢 Easy | 4 |
-| 🟠 Medium | 2 |
+| 🟠 Medium | 3 |
 | 🔴 Hard | 1 |
-| **Total** | **7** |
+| **Total** | **8** |
 
 ## 📂 Repository Structure
 
@@ -50,6 +51,7 @@ daily-coding-practice/
 │
 ├── Python/
 │   ├── Arrays/
+│   │   ├── LexicographicallySmallestArray.py
 │   │   └── TwoSum.py
 │   │
 │   └── Strings/
@@ -65,7 +67,13 @@ daily-coding-practice/
 
 I will regularly update this repository with new coding problems and solutions as I continue learning and practicing.
 
-My goal is to improve logical thinking, strengthen programming fundamentals, practice DSA concepts, and build consistency through regular coding practice.
+My goal is to:
+
+- Improve logical thinking
+- Strengthen programming fundamentals
+- Practice DSA concepts
+- Write clean and efficient code
+- Build consistency through regular coding practice
 
 ---
 
