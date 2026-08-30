@@ -29,15 +29,16 @@ This repository contains my solutions to coding problems that I solve while impr
 | 6 | Lexicographically Smallest Permutation Greater Than Target | Python | 🟠 Medium |
 | 7 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Python | 🔴 Hard |
 | 8 | Make Lexicographically Smallest Array by Swapping Elements | Python | 🟠 Medium |
+| 9 | Removing Minimum and Maximum From Array | Python | 🟠 Medium |
 
 ## 📊 Problem Statistics
 
 | Difficulty | Problems |
 |---|---:|
 | 🟢 Easy | 4 |
-| 🟠 Medium | 3 |
+| 🟠 Medium | 4 |
 | 🔴 Hard | 1 |
-| **Total** | **8** |
+| **Total** | **9** |
 
 ## 📂 Repository Structure
 
@@ -52,6 +53,7 @@ daily-coding-practice/
 ├── Python/
 │   ├── Arrays/
 │   │   ├── LexicographicallySmallestArray.py
+│   │   ├── MinimumDeletions.py
 │   │   └── TwoSum.py
 │   │
 │   └── Strings/
