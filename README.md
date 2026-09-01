@@ -11,6 +11,7 @@ This repository contains my solutions to coding problems that I solve while impr
 - Strengthen Data Structures and Algorithms knowledge
 - Practice Java and Python
 - Maintain a record of my coding journey
+- Build consistency through regular coding practice
 
 ## 💻 Tech Stack
 
@@ -30,15 +31,16 @@ This repository contains my solutions to coding problems that I solve while impr
 | 7 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Python | 🔴 Hard |
 | 8 | Make Lexicographically Smallest Array by Swapping Elements | Python | 🟠 Medium |
 | 9 | Removing Minimum and Maximum From Array | Python | 🟠 Medium |
+| 10 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Python | 🟠 Medium |
 
 ## 📊 Problem Statistics
 
 | Difficulty | Problems |
 |---|---:|
 | 🟢 Easy | 4 |
-| 🟠 Medium | 4 |
+| 🟠 Medium | 5 |
 | 🔴 Hard | 1 |
-| **Total** | **9** |
+| **Total** | **10** |
 
 ## 📂 Repository Structure
 
@@ -55,6 +57,9 @@ daily-coding-practice/
 │   │   ├── LexicographicallySmallestArray.py
 │   │   ├── MinimumDeletions.py
 │   │   └── TwoSum.py
+│   │
+│   ├── LinkedList/
+│   │   └── NodesBetweenCriticalPoints.py
 │   │
 │   └── Strings/
 │       ├── LexGreaterPermutation.py
@@ -76,6 +81,10 @@ My goal is to:
 - Practice DSA concepts
 - Write clean and efficient code
 - Build consistency through regular coding practice
+
+## 📈 Progress
+
+**10 Problems Solved and Counting... 🚀**
 
 ---
 
