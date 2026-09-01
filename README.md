@@ -17,6 +17,10 @@ This repository contains my solutions to coding problems that I solve while impr
 
 - ☕ Java
 - 🐍 Python
+- 🔹 Data Structures & Algorithms
+- 🔹 BFS
+- 🔹 Bitmasking
+- 🔹 Two Pointers
 
 ## 🧠 Problems Solved
 
@@ -32,15 +36,16 @@ This repository contains my solutions to coding problems that I solve while impr
 | 8 | Make Lexicographically Smallest Array by Swapping Elements | Python | 🟠 Medium |
 | 9 | Removing Minimum and Maximum From Array | Python | 🟠 Medium |
 | 10 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Python | 🟠 Medium |
+| 11 | Minimum Moves to Clean the Classroom | Python (BFS + Bitmask) | 🟠 Medium |
 
 ## 📊 Problem Statistics
 
 | Difficulty | Problems |
 |---|---:|
 | 🟢 Easy | 4 |
-| 🟠 Medium | 5 |
+| 🟠 Medium | 6 |
 | 🔴 Hard | 1 |
-| **Total** | **10** |
+| **Total** | **11** |
 
 ## 📂 Repository Structure
 
@@ -57,6 +62,9 @@ daily-coding-practice/
 │   │   ├── LexicographicallySmallestArray.py
 │   │   ├── MinimumDeletions.py
 │   │   └── TwoSum.py
+│   │
+│   ├── BFS/
+│   │   └── MinimumMovesClassroom.py
 │   │
 │   ├── LinkedList/
 │   │   └── NodesBetweenCriticalPoints.py
@@ -79,12 +87,13 @@ My goal is to:
 - Improve logical thinking
 - Strengthen programming fundamentals
 - Practice DSA concepts
+- Learn different problem-solving approaches
 - Write clean and efficient code
 - Build consistency through regular coding practice
 
 ## 📈 Progress
 
-**10 Problems Solved and Counting... 🚀**
+**11 Problems Solved and Counting... 🚀**
 
 ---
 
