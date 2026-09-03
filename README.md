@@ -37,15 +37,16 @@ This repository contains my solutions to coding problems that I solve while impr
 | 9 | Removing Minimum and Maximum From Array | Python | 🟠 Medium |
 | 10 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Python | 🟠 Medium |
 | 11 | Minimum Moves to Clean the Classroom | Python (BFS + Bitmask) | 🟠 Medium |
+| 12 | Uniform Array | Python | 🟢 Easy |
 
 ## 📊 Problem Statistics
 
 | Difficulty | Problems |
 |---|---:|
-| 🟢 Easy | 4 |
+| 🟢 Easy | 5 |
 | 🟠 Medium | 6 |
 | 🔴 Hard | 1 |
-| **Total** | **11** |
+| **Total** | **12** |
 
 ## 📂 Repository Structure
 
@@ -61,7 +62,8 @@ daily-coding-practice/
 │   ├── Arrays/
 │   │   ├── LexicographicallySmallestArray.py
 │   │   ├── MinimumDeletions.py
-│   │   └── TwoSum.py
+│   │   ├── TwoSum.py
+│   │   └── UniformArray.py
 │   │
 │   ├── BFS/
 │   │   └── MinimumMovesClassroom.py
@@ -80,9 +82,9 @@ daily-coding-practice/
 
 ## 🚀 Coding Journey
 
-I will regularly update this repository with new coding problems and solutions as I continue learning and practicing.
+I regularly update this repository with new coding problems and solutions as I continue learning and practicing.
 
-My goal is to:
+My goals are to:
 
 - Improve logical thinking
 - Strengthen programming fundamentals
@@ -93,7 +95,7 @@ My goal is to:
 
 ## 📈 Progress
 
-**11 Problems Solved and Counting... 🚀**
+**12 Problems Solved and Counting... 🚀**
 
 ---
 
