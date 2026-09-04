@@ -21,6 +21,9 @@ This repository contains my solutions to coding problems that I solve while impr
 - 🔹 BFS
 - 🔹 Bitmasking
 - 🔹 Two Pointers
+- 🔹 Arrays
+- 🔹 Strings
+- 🔹 Linked Lists
 
 ## 🧠 Problems Solved
 
@@ -38,15 +41,19 @@ This repository contains my solutions to coding problems that I solve while impr
 | 10 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Python | 🟠 Medium |
 | 11 | Minimum Moves to Clean the Classroom | Python (BFS + Bitmask) | 🟠 Medium |
 | 12 | Uniform Array | Python | 🟢 Easy |
+| 13 | Maximum Number of Balls in a Box | Python | 🟢 Easy |
+| 14 | Find the Sum of Encrypted Integers | Python | 🟢 Easy |
+| 15 | Find the Difference | Python | 🟢 Easy |
+| 16 | First Stable Index | Python | 🟢 Easy |
 
 ## 📊 Problem Statistics
 
 | Difficulty | Problems |
 |---|---:|
-| 🟢 Easy | 5 |
+| 🟢 Easy | 9 |
 | 🟠 Medium | 6 |
 | 🔴 Hard | 1 |
-| **Total** | **12** |
+| **Total** | **16** |
 
 ## 📂 Repository Structure
 
@@ -60,10 +67,13 @@ daily-coding-practice/
 │
 ├── Python/
 │   ├── Arrays/
+│   │   ├── FirstStableIndex.py
 │   │   ├── LexicographicallySmallestArray.py
 │   │   ├── MinimumDeletions.py
 │   │   ├── TwoSum.py
-│   │   └── UniformArray.py
+│   │   ├── UniformArray.py
+│   │   ├── CountBalls.py
+│   │   └── SumOfEncryptedInt.py
 │   │
 │   ├── BFS/
 │   │   └── MinimumMovesClassroom.py
@@ -72,6 +82,7 @@ daily-coding-practice/
 │   │   └── NodesBetweenCriticalPoints.py
 │   │
 │   └── Strings/
+│       ├── FindTheDifference.py
 │       ├── LexGreaterPermutation.py
 │       ├── LexPalindromicPermutation.py
 │       ├── MostWordsFound.py
@@ -95,7 +106,7 @@ My goals are to:
 
 ## 📈 Progress
 
-**12 Problems Solved and Counting... 🚀**
+**16 Problems Solved and Counting... 🚀**
 
 ---
 
