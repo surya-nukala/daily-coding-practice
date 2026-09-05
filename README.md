@@ -18,12 +18,14 @@ This repository contains my solutions to coding problems that I solve while impr
 - ☕ Java
 - 🐍 Python
 - 🔹 Data Structures & Algorithms
-- 🔹 BFS
-- 🔹 Bitmasking
-- 🔹 Two Pointers
 - 🔹 Arrays
 - 🔹 Strings
 - 🔹 Linked Lists
+- 🔹 BFS
+- 🔹 Bitmasking
+- 🔹 Two Pointers
+- 🔹 Hashing
+- 🔹 XOR
 
 ## 🧠 Problems Solved
 
@@ -45,15 +47,17 @@ This repository contains my solutions to coding problems that I solve while impr
 | 14 | Find the Sum of Encrypted Integers | Python | 🟢 Easy |
 | 15 | Find the Difference | Python | 🟢 Easy |
 | 16 | First Stable Index | Python | 🟢 Easy |
+| 17 | Find All Numbers Disappeared in an Array | Python | 🟢 Easy |
+| 18 | Count Digit Occurrences | Python | 🟢 Easy |
 
 ## 📊 Problem Statistics
 
 | Difficulty | Problems |
 |---|---:|
-| 🟢 Easy | 9 |
+| 🟢 Easy | 11 |
 | 🟠 Medium | 6 |
 | 🔴 Hard | 1 |
-| **Total** | **16** |
+| **Total** | **18** |
 
 ## 📂 Repository Structure
 
@@ -67,13 +71,15 @@ daily-coding-practice/
 │
 ├── Python/
 │   ├── Arrays/
+│   │   ├── CountDigitOccurrences.py
 │   │   ├── FirstStableIndex.py
+│   │   ├── FindDisappearedNumbers.py
 │   │   ├── LexicographicallySmallestArray.py
 │   │   ├── MinimumDeletions.py
+│   │   ├── SumOfEncryptedInt.py
 │   │   ├── TwoSum.py
 │   │   ├── UniformArray.py
-│   │   ├── CountBalls.py
-│   │   └── SumOfEncryptedInt.py
+│   │   └── CountBalls.py
 │   │
 │   ├── BFS/
 │   │   └── MinimumMovesClassroom.py
@@ -106,7 +112,7 @@ My goals are to:
 
 ## 📈 Progress
 
-**16 Problems Solved and Counting... 🚀**
+**18 Problems Solved and Counting... 🚀**
 
 ---
 
