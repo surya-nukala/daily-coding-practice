@@ -21,6 +21,7 @@ This repository contains my solutions to coding problems that I solve while impr
 - 🔹 Arrays
 - 🔹 Strings
 - 🔹 Linked Lists
+- 🔹 Dynamic Programming
 - 🔹 BFS
 - 🔹 Bitmasking
 - 🔹 Two Pointers
@@ -49,6 +50,7 @@ This repository contains my solutions to coding problems that I solve while impr
 | 16 | First Stable Index | Python | 🟢 Easy |
 | 17 | Find All Numbers Disappeared in an Array | Python | 🟢 Easy |
 | 18 | Count Digit Occurrences | Python | 🟢 Easy |
+| 19 | Distinct Subsequences | Python (Dynamic Programming) | 🔴 Hard |
 
 ## 📊 Problem Statistics
 
@@ -56,8 +58,8 @@ This repository contains my solutions to coding problems that I solve while impr
 |---|---:|
 | 🟢 Easy | 11 |
 | 🟠 Medium | 6 |
-| 🔴 Hard | 1 |
-| **Total** | **18** |
+| 🔴 Hard | 2 |
+| **Total** | **19** |
 
 ## 📂 Repository Structure
 
@@ -71,6 +73,7 @@ daily-coding-practice/
 │
 ├── Python/
 │   ├── Arrays/
+│   │   ├── CountBalls.py
 │   │   ├── CountDigitOccurrences.py
 │   │   ├── FirstStableIndex.py
 │   │   ├── FindDisappearedNumbers.py
@@ -78,11 +81,13 @@ daily-coding-practice/
 │   │   ├── MinimumDeletions.py
 │   │   ├── SumOfEncryptedInt.py
 │   │   ├── TwoSum.py
-│   │   ├── UniformArray.py
-│   │   └── CountBalls.py
+│   │   └── UniformArray.py
 │   │
 │   ├── BFS/
 │   │   └── MinimumMovesClassroom.py
+│   │
+│   ├── DP/
+│   │   └── NumDistinct.py
 │   │
 │   ├── LinkedList/
 │   │   └── NodesBetweenCriticalPoints.py
@@ -112,7 +117,7 @@ My goals are to:
 
 ## 📈 Progress
 
-**18 Problems Solved and Counting... 🚀**
+**19 Problems Solved and Counting... 🚀**
 
 ---
 
