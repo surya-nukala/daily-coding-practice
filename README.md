@@ -51,15 +51,17 @@ This repository contains my solutions to coding problems that I solve while impr
 | 17 | Find All Numbers Disappeared in an Array | Python | 🟢 Easy |
 | 18 | Count Digit Occurrences | Python | 🟢 Easy |
 | 19 | Distinct Subsequences | Python (Dynamic Programming) | 🔴 Hard |
+| 20 | Triangle | Python (Dynamic Programming) | 🟠 Medium |
+| 21 | Distinct Subsequences II | Python (Dynamic Programming + Hash Map) | 🟠 Medium |
 
 ## 📊 Problem Statistics
 
 | Difficulty | Problems |
 |---|---:|
 | 🟢 Easy | 11 |
-| 🟠 Medium | 6 |
+| 🟠 Medium | 8 |
 | 🔴 Hard | 2 |
-| **Total** | **19** |
+| **Total** | **21** |
 
 ## 📂 Repository Structure
 
@@ -87,6 +89,8 @@ daily-coding-practice/
 │   │   └── MinimumMovesClassroom.py
 │   │
 │   ├── DP/
+│   │   ├── DistinctSubseqII.py
+│   │   ├── MinimumTotal.py
 │   │   └── NumDistinct.py
 │   │
 │   ├── LinkedList/
@@ -117,7 +121,7 @@ My goals are to:
 
 ## 📈 Progress
 
-**19 Problems Solved and Counting... 🚀**
+**21 Problems Solved and Counting... 🚀**
 
 ---
 
