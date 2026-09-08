@@ -27,6 +27,7 @@ This repository contains my solutions to coding problems that I solve while impr
 - 🔹 Two Pointers
 - 🔹 Hashing
 - 🔹 XOR
+- 🔹 Math
 
 ## 🧠 Problems Solved
 
@@ -53,15 +54,16 @@ This repository contains my solutions to coding problems that I solve while impr
 | 19 | Distinct Subsequences | Python (Dynamic Programming) | 🔴 Hard |
 | 20 | Triangle | Python (Dynamic Programming) | 🟠 Medium |
 | 21 | Distinct Subsequences II | Python (Dynamic Programming + Hash Map) | 🟠 Medium |
+| 22 | Count Commas | Java | 🟢 Easy |
 
 ## 📊 Problem Statistics
 
 | Difficulty | Problems |
 |---|---:|
-| 🟢 Easy | 11 |
+| 🟢 Easy | 12 |
 | 🟠 Medium | 8 |
 | 🔴 Hard | 2 |
-| **Total** | **21** |
+| **Total** | **22** |
 
 ## 📂 Repository Structure
 
@@ -69,9 +71,12 @@ This repository contains my solutions to coding problems that I solve while impr
 daily-coding-practice/
 │
 ├── Java/
-│   └── Arrays/
-│       ├── ReverseArray.java
-│       └── TwoSum.java
+│   ├── Arrays/
+│   │   ├── ReverseArray.java
+│   │   └── TwoSum.java
+│   │
+│   └── Math/
+│       └── CountCommas.java
 │
 ├── Python/
 │   ├── Arrays/
@@ -121,7 +126,7 @@ My goals are to:
 
 ## 📈 Progress
 
-**21 Problems Solved and Counting... 🚀**
+**22 Problems Solved and Counting... 🚀**
 
 ---
 
