@@ -54,16 +54,17 @@ This repository contains my solutions to coding problems that I solve while impr
 | 19 | Distinct Subsequences | Python (Dynamic Programming) | 🔴 Hard |
 | 20 | Triangle | Python (Dynamic Programming) | 🟠 Medium |
 | 21 | Distinct Subsequences II | Python (Dynamic Programming + Hash Map) | 🟠 Medium |
-| 22 | Count Commas | Java | 🟢 Easy |
+| 22 | Count Commas | Python | 🟠 Medium |
+| 23 | Count Commas II | Python | 🟠 Medium |
 
 ## 📊 Problem Statistics
 
 | Difficulty | Problems |
 |---|---:|
-| 🟢 Easy | 12 |
-| 🟠 Medium | 8 |
+| 🟢 Easy | 11 |
+| 🟠 Medium | 10 |
 | 🔴 Hard | 2 |
-| **Total** | **22** |
+| **Total** | **23** |
 
 ## 📂 Repository Structure
 
@@ -81,6 +82,7 @@ daily-coding-practice/
 ├── Python/
 │   ├── Arrays/
 │   │   ├── CountBalls.py
+│   │   ├── CountCommas.py
 │   │   ├── CountDigitOccurrences.py
 │   │   ├── FirstStableIndex.py
 │   │   ├── FindDisappearedNumbers.py
@@ -126,7 +128,7 @@ My goals are to:
 
 ## 📈 Progress
 
-**22 Problems Solved and Counting... 🚀**
+**23 Problems Solved and Counting... 🚀**
 
 ---
 
