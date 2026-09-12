@@ -1,135 +1,72 @@
-# Daily Coding Practice 🚀
+# Daily Coding Practice
 
-Welcome to my **Daily Coding Practice** repository!
+This repository contains my daily coding practice solutions from platforms like LeetCode.  
+It includes problems solved using Python and Java, covering arrays, strings, hashing, dynamic programming, binary search, and more.
 
-This repository contains my solutions to coding problems that I solve while improving my **problem-solving skills, Data Structures and Algorithms knowledge, and programming skills**.
+## Problems Solved
 
-## 🎯 Goals
+| S.No | Problem Name | Language | Difficulty |
+|------|--------------|----------|------------|
+| 1 | Reverse Array Using Two Pointers | Java | Easy |
+| 2 | Two Sum | Java | Easy |
+| 3 | Two Sum | Python | Easy |
+| 4 | Maximum Number of Words Found in Sentences | Python | Easy |
+| 5 | Shortest Beautiful Substring | Python | Medium |
+| 6 | Lexicographically Smallest Permutation Greater Than Target | Python | Medium |
+| 7 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Python | Hard |
+| 8 | Make Lexicographically Smallest Array by Swapping Elements | Python | Medium |
+| 9 | Removing Minimum and Maximum From Array | Python | Medium |
+| 10 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Python | Medium |
+| 11 | Minimum Moves to Clean the Classroom | Python | Medium |
+| 12 | Uniform Array | Python | Easy |
+| 13 | Maximum Number of Balls in a Box | Python | Easy |
+| 14 | Find the Sum of Encrypted Integers | Python | Easy |
+| 15 | Find the Difference | Python | Easy |
+| 16 | First Stable Index | Python | Easy |
+| 17 | Find All Numbers Disappeared in an Array | Python | Easy |
+| 18 | Count Digit Occurrences | Python | Easy |
+| 19 | Distinct Subsequences | Python | Hard |
+| 20 | Triangle | Python | Medium |
+| 21 | Distinct Subsequences II | Python | Medium |
+| 22 | Count Commas | Python | Medium |
+| 23 | Count Commas II | Python | Medium |
+| 24 | Maximum Weight | Python | Hard |
 
-- Practice coding consistently
-- Improve problem-solving skills
-- Strengthen Data Structures and Algorithms knowledge
-- Practice Java and Python
-- Maintain a record of my coding journey
-- Build consistency through regular coding practice
+## Statistics
 
-## 💻 Tech Stack
+- **Total Problems Solved:** 24
+- **Easy:** 10
+- **Medium:** 11
+- **Hard:** 3
 
-- ☕ Java
-- 🐍 Python
-- 🔹 Data Structures & Algorithms
-- 🔹 Arrays
-- 🔹 Strings
-- 🔹 Linked Lists
-- 🔹 Dynamic Programming
-- 🔹 BFS
-- 🔹 Bitmasking
-- 🔹 Two Pointers
-- 🔹 Hashing
-- 🔹 XOR
-- 🔹 Math
+## Topics Covered
 
-## 🧠 Problems Solved
+- Arrays
+- Strings
+- Hashing
+- Two Pointers
+- Sliding Window
+- Binary Search
+- Dynamic Programming
+- Breadth-First Search
+- Bitmasking
+- Sorting
+- Greedy Algorithms
+- Interval Scheduling
 
-| # | Problem Name | Stack / Language | Difficulty |
-|---|---|---|---|
-| 1 | Reverse Array Using Two Pointers | Java | 🟢 Easy |
-| 2 | Two Sum | Java | 🟢 Easy |
-| 3 | Two Sum | Python | 🟢 Easy |
-| 4 | Maximum Number of Words Found in Sentences | Python | 🟢 Easy |
-| 5 | Shortest Beautiful Substring | Python | 🟠 Medium |
-| 6 | Lexicographically Smallest Permutation Greater Than Target | Python | 🟠 Medium |
-| 7 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Python | 🔴 Hard |
-| 8 | Make Lexicographically Smallest Array by Swapping Elements | Python | 🟠 Medium |
-| 9 | Removing Minimum and Maximum From Array | Python | 🟠 Medium |
-| 10 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Python | 🟠 Medium |
-| 11 | Minimum Moves to Clean the Classroom | Python (BFS + Bitmask) | 🟠 Medium |
-| 12 | Uniform Array | Python | 🟢 Easy |
-| 13 | Maximum Number of Balls in a Box | Python | 🟢 Easy |
-| 14 | Find the Sum of Encrypted Integers | Python | 🟢 Easy |
-| 15 | Find the Difference | Python | 🟢 Easy |
-| 16 | First Stable Index | Python | 🟢 Easy |
-| 17 | Find All Numbers Disappeared in an Array | Python | 🟢 Easy |
-| 18 | Count Digit Occurrences | Python | 🟢 Easy |
-| 19 | Distinct Subsequences | Python (Dynamic Programming) | 🔴 Hard |
-| 20 | Triangle | Python (Dynamic Programming) | 🟠 Medium |
-| 21 | Distinct Subsequences II | Python (Dynamic Programming + Hash Map) | 🟠 Medium |
-| 22 | Count Commas | Python | 🟠 Medium |
-| 23 | Count Commas II | Python | 🟠 Medium |
-
-## 📊 Problem Statistics
-
-| Difficulty | Problems |
-|---|---:|
-| 🟢 Easy | 11 |
-| 🟠 Medium | 10 |
-| 🔴 Hard | 2 |
-| **Total** | **23** |
-
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 daily-coding-practice/
 │
 ├── Java/
 │   ├── Arrays/
-│   │   ├── ReverseArray.java
-│   │   └── TwoSum.java
-│   │
-│   └── Math/
-│       └── CountCommas.java
+│   └── ...
 │
 ├── Python/
 │   ├── Arrays/
-│   │   ├── CountBalls.py
-│   │   ├── CountCommas.py
-│   │   ├── CountDigitOccurrences.py
-│   │   ├── FirstStableIndex.py
-│   │   ├── FindDisappearedNumbers.py
-│   │   ├── LexicographicallySmallestArray.py
-│   │   ├── MinimumDeletions.py
-│   │   ├── SumOfEncryptedInt.py
-│   │   ├── TwoSum.py
-│   │   └── UniformArray.py
-│   │
-│   ├── BFS/
-│   │   └── MinimumMovesClassroom.py
-│   │
+│   ├── Strings/
 │   ├── DP/
-│   │   ├── DistinctSubseqII.py
-│   │   ├── MinimumTotal.py
-│   │   └── NumDistinct.py
-│   │
-│   ├── LinkedList/
-│   │   └── NodesBetweenCriticalPoints.py
-│   │
-│   └── Strings/
-│       ├── FindTheDifference.py
-│       ├── LexGreaterPermutation.py
-│       ├── LexPalindromicPermutation.py
-│       ├── MostWordsFound.py
-│       └── ShortestBeautifulSubstring.py
+│   └── ...
 │
 └── README.md
-```
-
-## 🚀 Coding Journey
-
-I regularly update this repository with new coding problems and solutions as I continue learning and practicing.
-
-My goals are to:
-
-- Improve logical thinking
-- Strengthen programming fundamentals
-- Practice DSA concepts
-- Learn different problem-solving approaches
-- Write clean and efficient code
-- Build consistency through regular coding practice
-
-## 📈 Progress
-
-**23 Problems Solved and Counting... 🚀**
-
----
-
-⭐ Feel free to explore my repository and follow my coding journey!
