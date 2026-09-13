@@ -1,7 +1,8 @@
 # Daily Coding Practice
 
-This repository contains my daily coding practice solutions from platforms like LeetCode.  
-It includes problems solved using Python and Java, covering arrays, strings, hashing, dynamic programming, binary search, and more.
+This repository contains my daily coding practice solutions from platforms like LeetCode.
+
+It includes problems solved using Python and Java, covering arrays, strings, hashing, dynamic programming, binary search, BFS, and other important problem-solving techniques.
 
 ## Problems Solved
 
@@ -31,12 +32,13 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 | 22 | Count Commas | Python | Medium |
 | 23 | Count Commas II | Python | Medium |
 | 24 | Maximum Weight | Python | Hard |
+| 25 | Largest Overlap | Python | Medium |
 
 ## Statistics
 
-- **Total Problems Solved:** 24
+- **Total Problems Solved:** 25
 - **Easy:** 10
-- **Medium:** 11
+- **Medium:** 12
 - **Hard:** 3
 
 ## Topics Covered
@@ -53,6 +55,8 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 - Sorting
 - Greedy Algorithms
 - Interval Scheduling
+- Matrix Manipulation
+- Coordinate Mapping
 
 ## Repository Structure
 
