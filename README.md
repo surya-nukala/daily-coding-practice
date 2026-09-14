@@ -33,11 +33,12 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 | 23 | Count Commas II | Python | Medium |
 | 24 | Maximum Weight | Python | Hard |
 | 25 | Largest Overlap | Python | Medium |
+| 26 | Rectangle Overlap | Python | Easy |
 
 ## Statistics
 
-- **Total Problems Solved:** 25
-- **Easy:** 10
+- **Total Problems Solved:** 26
+- **Easy:** 11
 - **Medium:** 12
 - **Hard:** 3
 
@@ -57,6 +58,7 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 - Interval Scheduling
 - Matrix Manipulation
 - Coordinate Mapping
+- Geometry
 
 ## Repository Structure
 
