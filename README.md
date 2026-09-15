@@ -34,12 +34,13 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 | 24 | Maximum Weight | Python | Hard |
 | 25 | Largest Overlap | Python | Medium |
 | 26 | Rectangle Overlap | Python | Easy |
+| 27 | Maximum Number of Non-Overlapping Palindrome Substrings | Python | Medium |
 
 ## Statistics
 
-- **Total Problems Solved:** 26
+- **Total Problems Solved:** 27
 - **Easy:** 11
-- **Medium:** 12
+- **Medium:** 13
 - **Hard:** 3
 
 ## Topics Covered
@@ -59,6 +60,8 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 - Matrix Manipulation
 - Coordinate Mapping
 - Geometry
+- Palindrome
+- String Dynamic Programming
 
 ## Repository Structure
 
