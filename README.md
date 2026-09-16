@@ -35,12 +35,13 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 | 25 | Largest Overlap | Python | Medium |
 | 26 | Rectangle Overlap | Python | Easy |
 | 27 | Maximum Number of Non-Overlapping Palindrome Substrings | Python | Medium |
+| 28 | Number of Sets of K Non-Overlapping Line Segments | Python | Medium |
 
 ## Statistics
 
-- **Total Problems Solved:** 27
+- **Total Problems Solved:** 28
 - **Easy:** 11
-- **Medium:** 13
+- **Medium:** 14
 - **Hard:** 3
 
 ## Topics Covered
@@ -52,6 +53,7 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 - Sliding Window
 - Binary Search
 - Dynamic Programming
+- Prefix Sums
 - Breadth-First Search
 - Bitmasking
 - Sorting
@@ -62,6 +64,7 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 - Geometry
 - Palindrome
 - String Dynamic Programming
+- Combinatorics
 
 ## Repository Structure
 
