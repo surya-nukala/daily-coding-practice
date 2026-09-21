@@ -36,12 +36,14 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 | 26 | Rectangle Overlap | Python | Easy |
 | 27 | Maximum Number of Non-Overlapping Palindrome Substrings | Python | Medium |
 | 28 | Number of Sets of K Non-Overlapping Line Segments | Python | Medium |
+| 29 | Reverse Degree of a String | Python | Easy |
+| 30 | Problem 3524 | Python | Medium |
 
 ## Statistics
 
-- **Total Problems Solved:** 28
-- **Easy:** 11
-- **Medium:** 14
+- **Total Problems Solved:** 30
+- **Easy:** 12
+- **Medium:** 15
 - **Hard:** 3
 
 ## Topics Covered
