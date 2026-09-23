@@ -2,7 +2,7 @@
 
 This repository contains my daily coding practice solutions from platforms like LeetCode.
 
-It includes problems solved using Python and Java, covering arrays, strings, hashing, dynamic programming, binary search, BFS, and other important problem-solving techniques.
+It includes problems solved using Python and Java, covering arrays, strings, hashing, dynamic programming, binary search, BFS, segment trees, and other important problem-solving techniques.
 
 ## Problems Solved
 
@@ -38,13 +38,14 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 | 28 | Number of Sets of K Non-Overlapping Line Segments | Python | Medium |
 | 29 | Reverse Degree of a String | Python | Easy |
 | 30 | Problem 3524 | Python | Medium |
+| 31 | Result Array | Python | Hard |
 
 ## Statistics
 
-- **Total Problems Solved:** 30
+- **Total Problems Solved:** 31
 - **Easy:** 12
 - **Medium:** 15
-- **Hard:** 3
+- **Hard:** 4
 
 ## Topics Covered
 
@@ -67,6 +68,7 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 - Palindrome
 - String Dynamic Programming
 - Combinatorics
+- Segment Trees
 
 ## Repository Structure
 
@@ -81,6 +83,12 @@ daily-coding-practice/
 │   ├── Arrays/
 │   ├── Strings/
 │   ├── DP/
+│   ├── SegmentTree/
 │   └── ...
 │
 └── README.md
+```
+
+## Goal
+
+To consistently improve problem-solving skills, strengthen programming fundamentals, and prepare for technical interviews and placements.
