@@ -41,12 +41,13 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 | 31 | Result Array | Python | Hard |
 | 32 | Is Subsequence | Python | Easy |
 | 33 | Minimum Operations to Reduce X to Zero | Python | Medium |
+| 34 | Delete Operation for Two Strings | Python | Medium |
 
 ## Statistics
 
-- **Total Problems Solved:** 33
+- **Total Problems Solved:** 34
 - **Easy:** 13
-- **Medium:** 16
+- **Medium:** 17
 - **Hard:** 4
 
 ## Topics Covered
@@ -69,6 +70,7 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 - Geometry
 - Palindrome
 - String Dynamic Programming
+- Longest Common Subsequence
 - Combinatorics
 - Segment Trees
 - Subsequence
