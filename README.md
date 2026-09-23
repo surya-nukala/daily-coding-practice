@@ -40,12 +40,13 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 | 30 | Problem 3524 | Python | Medium |
 | 31 | Result Array | Python | Hard |
 | 32 | Is Subsequence | Python | Easy |
+| 33 | Minimum Operations to Reduce X to Zero | Python | Medium |
 
 ## Statistics
 
-- **Total Problems Solved:** 32
+- **Total Problems Solved:** 33
 - **Easy:** 13
-- **Medium:** 15
+- **Medium:** 16
 - **Hard:** 4
 
 ## Topics Covered
