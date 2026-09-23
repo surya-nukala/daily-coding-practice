@@ -39,11 +39,12 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 | 29 | Reverse Degree of a String | Python | Easy |
 | 30 | Problem 3524 | Python | Medium |
 | 31 | Result Array | Python | Hard |
+| 32 | Is Subsequence | Python | Easy |
 
 ## Statistics
 
-- **Total Problems Solved:** 31
-- **Easy:** 12
+- **Total Problems Solved:** 32
+- **Easy:** 13
 - **Medium:** 15
 - **Hard:** 4
 
@@ -69,6 +70,7 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 - String Dynamic Programming
 - Combinatorics
 - Segment Trees
+- Subsequence
 
 ## Repository Structure
 
