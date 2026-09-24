@@ -43,12 +43,13 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 | 33 | Minimum Operations to Reduce X to Zero | Python | Medium |
 | 34 | Delete Operation for Two Strings | Python | Medium |
 | 35 | Distant Barcodes | Python | Medium |
+| 36 | Array of Doubled Pairs | Python | Medium |
 
 ## Statistics
 
-- **Total Problems Solved:** 35
+- **Total Problems Solved:** 36
 - **Easy:** 13
-- **Medium:** 18
+- **Medium:** 19
 - **Hard:** 4
 
 ## Topics Covered
