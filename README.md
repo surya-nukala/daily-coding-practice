@@ -2,7 +2,7 @@
 
 This repository contains my daily coding practice solutions from platforms like LeetCode.
 
-It includes problems solved using Python and Java, covering arrays, strings, hashing, dynamic programming, binary search, BFS, segment trees, and other important problem-solving techniques.
+It includes problems solved using Python and Java, covering arrays, strings, hashing, dynamic programming, binary search, BFS, segment trees, greedy algorithms, and other important problem-solving techniques.
 
 ## Problems Solved
 
@@ -42,12 +42,13 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 | 32 | Is Subsequence | Python | Easy |
 | 33 | Minimum Operations to Reduce X to Zero | Python | Medium |
 | 34 | Delete Operation for Two Strings | Python | Medium |
+| 35 | Distant Barcodes | Python | Medium |
 
 ## Statistics
 
-- **Total Problems Solved:** 34
+- **Total Problems Solved:** 35
 - **Easy:** 13
-- **Medium:** 17
+- **Medium:** 18
 - **Hard:** 4
 
 ## Topics Covered
@@ -74,6 +75,7 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 - Combinatorics
 - Segment Trees
 - Subsequence
+- Heap / Priority Queue
 
 ## Repository Structure
 
@@ -92,8 +94,3 @@ daily-coding-practice/
 │   └── ...
 │
 └── README.md
-```
-
-## Goal
-
-To consistently improve problem-solving skills, strengthen programming fundamentals, and prepare for technical interviews and placements.
