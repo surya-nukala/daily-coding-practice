@@ -1,58 +1,19 @@
-# Daily Coding Practice
+# Daily Coding Practice 🚀
 
-This repository contains my daily coding practice solutions from platforms like LeetCode.
+This repository contains my daily coding practice solutions, mainly focused on LeetCode problems and programming fundamentals.
 
-It includes problems solved using Python and Java, covering arrays, strings, hashing, dynamic programming, binary search, BFS, segment trees, greedy algorithms, and other important problem-solving techniques.
+## 🎯 Goal
 
-## Problems Solved
+To consistently improve problem-solving skills, strengthen programming fundamentals, and prepare for technical interviews and placements.
 
-| S.No | Problem Name | Language | Difficulty |
-|------|--------------|----------|------------|
-| 1 | Reverse Array Using Two Pointers | Java | Easy |
-| 2 | Two Sum | Java | Easy |
-| 3 | Two Sum | Python | Easy |
-| 4 | Maximum Number of Words Found in Sentences | Python | Easy |
-| 5 | Shortest Beautiful Substring | Python | Medium |
-| 6 | Lexicographically Smallest Permutation Greater Than Target | Python | Medium |
-| 7 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Python | Hard |
-| 8 | Make Lexicographically Smallest Array by Swapping Elements | Python | Medium |
-| 9 | Removing Minimum and Maximum From Array | Python | Medium |
-| 10 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Python | Medium |
-| 11 | Minimum Moves to Clean the Classroom | Python | Medium |
-| 12 | Uniform Array | Python | Easy |
-| 13 | Maximum Number of Balls in a Box | Python | Easy |
-| 14 | Find the Sum of Encrypted Integers | Python | Easy |
-| 15 | Find the Difference | Python | Easy |
-| 16 | First Stable Index | Python | Easy |
-| 17 | Find All Numbers Disappeared in an Array | Python | Easy |
-| 18 | Count Digit Occurrences | Python | Easy |
-| 19 | Distinct Subsequences | Python | Hard |
-| 20 | Triangle | Python | Medium |
-| 21 | Distinct Subsequences II | Python | Medium |
-| 22 | Count Commas | Python | Medium |
-| 23 | Count Commas II | Python | Medium |
-| 24 | Maximum Weight | Python | Hard |
-| 25 | Largest Overlap | Python | Medium |
-| 26 | Rectangle Overlap | Python | Easy |
-| 27 | Maximum Number of Non-Overlapping Palindrome Substrings | Python | Medium |
-| 28 | Number of Sets of K Non-Overlapping Line Segments | Python | Medium |
-| 29 | Reverse Degree of a String | Python | Easy |
-| 30 | Problem 3524 | Python | Medium |
-| 31 | Result Array | Python | Hard |
-| 32 | Is Subsequence | Python | Easy |
-| 33 | Minimum Operations to Reduce X to Zero | Python | Medium |
-| 34 | Delete Operation for Two Strings | Python | Medium |
-| 35 | Distant Barcodes | Python | Medium |
-| 36 | Array of Doubled Pairs | Python | Medium |
+## 📊 Progress
 
-## Statistics
-
-- **Total Problems Solved:** 36
+- **Total Problems:** 37
 - **Easy:** 13
-- **Medium:** 19
+- **Medium:** 20
 - **Hard:** 4
 
-## Topics Covered
+## 🧠 Topics Covered
 
 - Arrays
 - Strings
@@ -77,8 +38,9 @@ It includes problems solved using Python and Java, covering arrays, strings, has
 - Segment Trees
 - Subsequence
 - Heap / Priority Queue
+- Stack
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 daily-coding-practice/
