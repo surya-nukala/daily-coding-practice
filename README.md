@@ -8,8 +8,8 @@ To consistently improve problem-solving skills, strengthen programming fundament
 
 ## 📊 Progress
 
-- **Total Problems:** 38
-- **Easy:** 13
+- **Total Problems:** 39
+- **Easy:** 14
 - **Medium:** 21
 - **Hard:** 4
 
@@ -40,6 +40,8 @@ To consistently improve problem-solving skills, strengthen programming fundament
 - Heap / Priority Queue
 - Stack
 - Parentheses
+- Linked List
+- Fast and Slow Pointers
 
 ## 📂 Repository Structure
 
@@ -54,6 +56,7 @@ daily-coding-practice/
 │   ├── Arrays/
 │   ├── Strings/
 │   ├── DP/
+│   ├── LinkedList/
 │   ├── SegmentTree/
 │   └── ...
 │
