@@ -8,9 +8,9 @@ To consistently improve problem-solving skills, strengthen programming fundament
 
 ## 📊 Progress
 
-- **Total Problems:** 37
+- **Total Problems:** 38
 - **Easy:** 13
-- **Medium:** 20
+- **Medium:** 21
 - **Hard:** 4
 
 ## 🧠 Topics Covered
@@ -39,6 +39,7 @@ To consistently improve problem-solving skills, strengthen programming fundament
 - Subsequence
 - Heap / Priority Queue
 - Stack
+- Parentheses
 
 ## 📂 Repository Structure
 
