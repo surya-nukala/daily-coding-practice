@@ -10,7 +10,7 @@ To consistently improve problem-solving skills, strengthen programming fundament
 
 - **Total Problems:** 40
 - **Easy:** 14
-- **Medium:** 22
+- **Medium:** 23
 - **Hard:** 4
 
 ## 🧠 Topics Covered
