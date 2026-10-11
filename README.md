@@ -8,8 +8,8 @@ To consistently improve problem-solving skills, strengthen programming fundament
 
 ## 📊 Progress
 
-- **Total Problems:** 42
-- **Easy:** 14
+- **Total Problems:** 43
+- **Easy:** 15
 - **Medium:** 24
 - **Hard:** 4
 
@@ -109,6 +109,7 @@ daily-coding-practice/
 | 40 | Valid Parenthesis String | Python | Medium |
 | 41 | Minimum Insertions to Balance a Parentheses String | Python | Medium |
 | 42 | Minimum Sum of Squared Difference | Python | Medium |
+| 43 | Sum of Squares of Special Elements | Python | Easy |
 
 ## 💻 Languages
 
@@ -148,7 +149,7 @@ Continuously solving problems to improve:
 
 ## 🚀 Progress
 
-**42 Problems Solved and Counting...**
+**43 Problems Solved and Counting...**
 
 > Consistency is the key to improving problem-solving skills.
 
