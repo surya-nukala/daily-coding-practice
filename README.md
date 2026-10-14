@@ -8,8 +8,8 @@ To consistently improve problem-solving skills, strengthen programming fundament
 
 ## 📊 Progress
 
-- **Total Problems:** 44
-- **Easy:** 15
+- **Total Problems:** 45
+- **Easy:** 16
 - **Medium:** 25
 - **Hard:** 4
 
@@ -25,6 +25,7 @@ To consistently improve problem-solving skills, strengthen programming fundament
 - Prefix Sums
 - Breadth-First Search
 - Bitmasking
+- Bit Manipulation
 - Sorting
 - Greedy Algorithms
 - Interval Scheduling
@@ -42,7 +43,6 @@ To consistently improve problem-solving skills, strengthen programming fundament
 - Parentheses
 - Linked List
 - Fast and Slow Pointers
-- Bit Manipulation
 
 ## 📂 Repository Structure
 
@@ -112,6 +112,7 @@ daily-coding-practice/
 | 42 | Minimum Sum of Squared Difference | Python | Medium |
 | 43 | Sum of Squares of Special Elements | Python | Easy |
 | 44 | Apply Operations on Array to Maximize Sum of Squares | Python | Medium |
+| 45 | Largest Number With Given Sum | Python | Easy |
 
 ## 💻 Languages
 
@@ -152,7 +153,7 @@ Continuously solving problems to improve:
 
 ## 🚀 Progress
 
-**44 Problems Solved and Counting...**
+**45 Problems Solved and Counting...**
 
 > Consistency is the key to improving problem-solving skills.
 
