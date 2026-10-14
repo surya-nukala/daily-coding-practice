@@ -8,9 +8,9 @@ To consistently improve problem-solving skills, strengthen programming fundament
 
 ## 📊 Progress
 
-- **Total Problems:** 43
+- **Total Problems:** 44
 - **Easy:** 15
-- **Medium:** 24
+- **Medium:** 25
 - **Hard:** 4
 
 ## 🧠 Topics Covered
@@ -42,6 +42,7 @@ To consistently improve problem-solving skills, strengthen programming fundament
 - Parentheses
 - Linked List
 - Fast and Slow Pointers
+- Bit Manipulation
 
 ## 📂 Repository Structure
 
@@ -110,6 +111,7 @@ daily-coding-practice/
 | 41 | Minimum Insertions to Balance a Parentheses String | Python | Medium |
 | 42 | Minimum Sum of Squared Difference | Python | Medium |
 | 43 | Sum of Squares of Special Elements | Python | Easy |
+| 44 | Apply Operations on Array to Maximize Sum of Squares | Python | Medium |
 
 ## 💻 Languages
 
@@ -136,6 +138,7 @@ This repository includes practice with:
 - Recursion
 - Breadth-First Search
 - Binary Search
+- Bit Manipulation
 
 ## 📈 Consistency
 
@@ -149,7 +152,7 @@ Continuously solving problems to improve:
 
 ## 🚀 Progress
 
-**43 Problems Solved and Counting...**
+**44 Problems Solved and Counting...**
 
 > Consistency is the key to improving problem-solving skills.
 
