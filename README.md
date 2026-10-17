@@ -8,10 +8,10 @@ To consistently improve problem-solving skills, strengthen programming fundament
 
 ## 📊 Progress
 
-- **Total Problems:** 45
+- **Total Problems:** 46
 - **Easy:** 16
 - **Medium:** 25
-- **Hard:** 4
+- **Hard:** 5
 
 ## 🧠 Topics Covered
 
@@ -37,6 +37,7 @@ To consistently improve problem-solving skills, strengthen programming fundament
 - Longest Common Subsequence
 - Combinatorics
 - Segment Trees
+- Fenwick Trees
 - Subsequence
 - Heap / Priority Queue
 - Stack
@@ -113,6 +114,7 @@ daily-coding-practice/
 | 43 | Sum of Squares of Special Elements | Python | Easy |
 | 44 | Apply Operations on Array to Maximize Sum of Squares | Python | Medium |
 | 45 | Largest Number With Given Sum | Python | Easy |
+| 46 | Subarrays Distinct Element Sum of Squares II | Python | Hard |
 
 ## 💻 Languages
 
@@ -136,6 +138,7 @@ This repository includes practice with:
 - Sliding Window
 - Sorting
 - Segment Trees
+- Fenwick Trees
 - Recursion
 - Breadth-First Search
 - Binary Search
@@ -153,7 +156,7 @@ Continuously solving problems to improve:
 
 ## 🚀 Progress
 
-**45 Problems Solved and Counting...**
+**46 Problems Solved and Counting...**
 
 > Consistency is the key to improving problem-solving skills.
 
