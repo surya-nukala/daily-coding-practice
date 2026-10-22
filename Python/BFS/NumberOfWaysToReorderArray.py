@@ -1,3 +1,6 @@
+from math import comb
+
+
 class Solution:
     def numOfWays(self, nums: list[int]) -> int:
         mod=10**9+7
