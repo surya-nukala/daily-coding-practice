@@ -8,9 +8,9 @@ To consistently improve problem-solving skills, strengthen programming fundament
 
 ## 📊 Progress
 
-- **Total Problems:** 48
+- **Total Problems:** 49
 - **Easy:** 16
-- **Medium:** 26
+- **Medium:** 27
 - **Hard:** 6
 
 ## 🧠 Topics Covered
@@ -28,9 +28,6 @@ To consistently improve problem-solving skills, strengthen programming fundament
 - Bit Manipulation
 - Sorting
 - Greedy Algorithms
-- Recursion
-- Backtracking
-- Combinatorics
 - Interval Scheduling
 - Matrix Manipulation
 - Coordinate Mapping
@@ -38,6 +35,7 @@ To consistently improve problem-solving skills, strengthen programming fundament
 - Palindrome
 - String Dynamic Programming
 - Longest Common Subsequence
+- Combinatorics
 - Segment Trees
 - Fenwick Trees
 - Subsequence
@@ -49,7 +47,7 @@ To consistently improve problem-solving skills, strengthen programming fundament
 - Cycle Detection
 - Binary Search Trees
 
-## 📂 Repository Structure
+## 📁 Repository Structure
 
 ```text
 daily-coding-practice/
@@ -72,7 +70,7 @@ daily-coding-practice/
 ## 📝 Problems Solved
 
 | S.No | Problem Name | Language | Difficulty |
-|------|--------------|----------|------------|
+|---:|---|---|---|
 | 1 | Reverse Array Using Two Pointers | Java | Easy |
 | 2 | Two Sum | Java | Easy |
 | 3 | Two Sum | Python | Easy |
@@ -121,15 +119,9 @@ daily-coding-practice/
 | 46 | Subarrays Distinct Element Sum of Squares II | Python | Hard |
 | 47 | Minimum Swaps to Sort by Digit Sum | Python | Medium |
 | 48 | Number of Ways to Reorder Array to Get Same BST | Python | Hard |
+| 49 | Minimum Operations | Python | Medium |
 
-## 💻 Languages
-
-- Python
-- Java
-
-## 📚 Data Structures & Algorithms
-
-This repository includes practice with:
+## 🧩 DSA Topics
 
 - Arrays
 - Strings
@@ -165,7 +157,7 @@ Continuously solving problems to improve:
 
 ## 🚀 Progress
 
-**48 Problems Solved and Counting...**
+**49 Problems Solved and Counting...**
 
 > Consistency is the key to improving problem-solving skills.
 
