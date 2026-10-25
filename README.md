@@ -8,9 +8,9 @@ To consistently improve problem-solving skills, strengthen programming fundament
 
 ## 📊 Progress
 
-- **Total Problems:** 49
+- **Total Problems:** 50
 - **Easy:** 16
-- **Medium:** 27
+- **Medium:** 28
 - **Hard:** 6
 
 ## 🧠 Topics Covered
@@ -120,6 +120,7 @@ daily-coding-practice/
 | 47 | Minimum Swaps to Sort by Digit Sum | Python | Medium |
 | 48 | Number of Ways to Reorder Array to Get Same BST | Python | Hard |
 | 49 | Minimum Operations | Python | Medium |
+| 50 | Sort Permutation | Python | Medium |
 
 ## 🧩 DSA Topics
 
@@ -157,7 +158,7 @@ Continuously solving problems to improve:
 
 ## 🚀 Progress
 
-**49 Problems Solved and Counting...**
+**50 Problems Solved and Counting...**
 
 > Consistency is the key to improving problem-solving skills.
 
