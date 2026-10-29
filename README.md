@@ -8,10 +8,10 @@ To consistently improve problem-solving skills, strengthen programming fundament
 
 ## 📊 Progress
 
-- **Total Problems:** 53
+- **Total Problems:** 54
 - **Easy:** 17
 - **Medium:** 30
-- **Hard:** 6
+- **Hard:** 7
 
 ## 🧠 Topics Covered
 
@@ -47,6 +47,8 @@ To consistently improve problem-solving skills, strengthen programming fundament
 - Fast and Slow Pointers
 - Cycle Detection
 - Binary Search Trees
+- Lowest Common Ancestor
+- Euler Tour
 - Array and String Construction
 
 ## 📁 Repository Structure
@@ -127,6 +129,7 @@ daily-coding-practice/
 | 51 | Number of Closed Islands | Python | Medium |
 | 52 | Count Islands With Total Value Divisible by K | Python | Medium |
 | 53 | Create Grid | Python | Easy |
+| 54 | Palindromic Path Queries in a Tree | Python | Hard |
 
 ## 🧩 DSA Topics
 
@@ -152,7 +155,8 @@ daily-coding-practice/
 - Bit Manipulation
 - Combinatorics
 - Cycle Detection
-- Array and String Construction
+- Lowest Common Ancestor
+- Euler Tour
 
 ## 📈 Consistency
 
@@ -166,7 +170,7 @@ Continuously solving problems to improve:
 
 ## 🚀 Progress
 
-**53 Problems Solved and Counting...**
+**54 Problems Solved and Counting...**
 
 > Consistency is the key to improving problem-solving skills.
 
